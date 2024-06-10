@@ -21,8 +21,8 @@ Hi there, I'm **Padmore Aning**, a **A Frontend Developer** ( Ranked Top 1% Worl
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via work.designolabs@gmail.com to reach me.
-- ![image](https://github.com/rizennews/rizennews/assets/119019742/68a678bf-0587-4472-a3df-277badc36d17)
+- 📫 Please email via <a href="mailto:work.designolabs@gmail.com">work.designolabs@gmail.com</a> to reach me.
+- 🌐 Please contact through our website <a href="http://designolabs.com">Designolabs Studio</a>.
 
 
 
