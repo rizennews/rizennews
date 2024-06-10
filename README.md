@@ -22,7 +22,7 @@ Hi there, I'm **Padmore Aning**, a **A Frontend Developer** ( Ranked Top 1% Worl
 - 💼 I’m pursuing a Bachelor's degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via work.designolabs@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
+
 
 
 **Languages and Tools:**  
