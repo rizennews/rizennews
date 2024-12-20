@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi there, I'm **Padmore Aning**, a **A Frontend Developer** ( Ranked Top 1% Worldwide 🌍 ) and a **Computer Science student** 🚀 from Ghana.  
+Hi there, I'm **Padmore Aning**, a **A Frontend Developer** ( Ranked Top 1% Worldwide 🌍 ) 🚀 from Ghana.  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -19,7 +19,6 @@ Hi there, I'm **Padmore Aning**, a **A Frontend Developer** ( Ranked Top 1% Worl
 
 - 🌱 I’m currently learning Backend Development; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
-- 💼 I’m pursuing a Bachelor's degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via <a href="mailto:work.designolabs@gmail.com">work.designolabs@gmail.com</a> to reach me.
 - 🌐 Please contact through our website <a href="http://designolabs.com">Designolabs Studio</a>.
