@@ -4,7 +4,7 @@
   <img align="left" alt="rizennews's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://behance.net/designolabs_studio/">
+<a href="https://behance.net/padmoreaning/">
   <img align="left" alt="rizennews's Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
 </a>
 
@@ -17,11 +17,11 @@ Hi there, I'm **Padmore Aning**, a **A Frontend Developer** ( Ranked Top 1% Worl
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Backend Development; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
+- 🌱 I’m currently Delivami(A Client delivery platform for creatives); 
+- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, AI/Machine Learning etc..;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via <a href="mailto:hello@padmoreaning.com">hello@padmoreaning.com</a> to reach me.
-- 🌐 Please contact through our website <a href="http://designolabs.com">Designolabs Studio</a>.
+- 🌐 Please contact through me through my personal website <a href="http://padmoreaning.com">About Me</a>.
 
 
 
