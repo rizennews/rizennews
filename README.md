@@ -20,7 +20,7 @@ Hi there, I'm **Padmore Aning**, a **A Frontend Developer** ( Ranked Top 1% Worl
 - 🌱 I’m currently learning Backend Development; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via <a href="mailto:work.designolabs@gmail.com">work.designolabs@gmail.com</a> to reach me.
+- 📫 Please email via <a href="mailto:hello@padmoreaning.com">hello@padmoreaning.com</a> to reach me.
 - 🌐 Please contact through our website <a href="http://designolabs.com">Designolabs Studio</a>.
 
 
