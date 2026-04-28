@@ -17,7 +17,7 @@ Hi there, I'm **Padmore Aning**, a **A Frontend Developer** ( Ranked Top 1% Worl
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently Delivami(A Client delivery platform for creatives); 
+- 💻 I’m currently **Delivami**(A Client delivery platform for creatives); 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, AI/Machine Learning etc..;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via <a href="mailto:hello@padmoreaning.com">hello@padmoreaning.com</a> to reach me.
